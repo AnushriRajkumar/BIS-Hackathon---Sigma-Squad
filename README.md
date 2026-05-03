@@ -85,7 +85,7 @@ python eval_script.py --results output.json
 ## Team roles
 
 * Person A - SARA Y → Retrieval
-* Person B - SHREE RATHINA KUMAR → Reranking
+* Person B - SHREE RATHINA KUMAR P → Reranking
 * Person C - ANUSHRI RAJKUMAR → Generation & Inference
 
 ---
