@@ -59,7 +59,7 @@ python eval_script.py --results output.json
 
 ---
 
-###4. Evaluation Metrics and Results
+### 3. Evaluation Metrics and Results
 
 Hit Rate @3 : 100.00% 
 MRR @5 : 1.0000 
