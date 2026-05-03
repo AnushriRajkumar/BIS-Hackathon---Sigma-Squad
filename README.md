@@ -59,6 +59,12 @@ python eval_script.py --results output.json
 
 ---
 
+### 4. Evaluation Metrics and Reports
+Hit Rate @3 : 100.00%
+MRR @5      : 1.0000
+Avg Latency : 0.04 sec
+
+
 ## Output format
 
 ```id="yk8k0m"
